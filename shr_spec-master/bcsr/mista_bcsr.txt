@@ -1,0 +1,5 @@
+Grammar:        DataElement 5.0
+Namespace:      tw.mista.document.bcsr
+Description:    "用於國民健康署婦女乳房X光攝影檢查"
+Uses:           shr.core, shr.base
+
